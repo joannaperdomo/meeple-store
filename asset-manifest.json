@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/meeple-store/static/css/main.e089ff3a.css",
-    "main.js": "/meeple-store/static/js/main.5d35b616.js",
+    "main.css": "/meeple-store/static/css/main.f1c77da2.css",
+    "main.js": "/meeple-store/static/js/main.9d229c99.js",
     "static/js/787.6962212c.chunk.js": "/meeple-store/static/js/787.6962212c.chunk.js",
     "static/media/dado-logo.svg": "/meeple-store/static/media/dado-logo.a4170b56321686c4ec4da7ef88436a6d.svg",
+    "static/media/carrito-de-compras.png": "/meeple-store/static/media/carrito-de-compras.5c0c4acf43bfe85793a8.png",
     "static/media/logo.svg": "/meeple-store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/meeple-store/index.html",
-    "main.e089ff3a.css.map": "/meeple-store/static/css/main.e089ff3a.css.map",
-    "main.5d35b616.js.map": "/meeple-store/static/js/main.5d35b616.js.map",
+    "main.f1c77da2.css.map": "/meeple-store/static/css/main.f1c77da2.css.map",
+    "main.9d229c99.js.map": "/meeple-store/static/js/main.9d229c99.js.map",
     "787.6962212c.chunk.js.map": "/meeple-store/static/js/787.6962212c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e089ff3a.css",
-    "static/js/main.5d35b616.js"
+    "static/css/main.f1c77da2.css",
+    "static/js/main.9d229c99.js"
   ]
 }
